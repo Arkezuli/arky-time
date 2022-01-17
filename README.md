@@ -1,4 +1,4 @@
-# arky-time
+# Arky time!
 Time to learn repositories. wooooo~!
 
 I'm *learning*\~! wooooo~! \o/
